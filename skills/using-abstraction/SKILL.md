@@ -1,0 +1,4 @@
+- Functionalization
+- Inheritance
+- Abstract class and Abstract base classes
+- Creating dataclasses

@@ -1,0 +1,2 @@
+- Be aware that refactoring comes with significant risks, namely introducing bugs.
+- All changes must be validated against existing unit tests.
